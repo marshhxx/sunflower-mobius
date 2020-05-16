@@ -1,2 +1,2 @@
-# sunflower-mobius
-Google sunflower app using spotify/mobius reactive framework
+# todo-mobius
+TODO app using spotify/mobius reactive framework
